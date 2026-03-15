@@ -38,13 +38,8 @@ The `setInterval()` function updates the clock **every second**, ensuring the ti
 ---
 
 ## 📸 Screenshot
-*(Add a screenshot of your project here)*
 
-```
-![Digital Clock Screenshot](screenshot.png)
-```
-
----
+![Digital Clock Screenshot](Screenshot_Clock.png)
 
 ## 💡 Learning Outcomes
 - DOM manipulation
